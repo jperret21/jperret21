@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm  a PhD student in **Astrophysics** at [Université Paris-Cité / Laboratoire Astroparticule et Cosmologie](https://www.apc.univ-paris7.fr/). I specialize in **Bayesian inference** for **gravitational waves physics**. My research focuses on developing efficient algorithms for parameter estimation and signal analysis, combining **high-performance computing** with **astrophysical modeling**.<br><br>I am passionate about:<br>- Astrophysics & Cosmology 🌌<br>- Computational Physics & HPC ⚛️<br>- Data Analysis & Bayesian Inference 📊<br>- Space Missions & Instrumentation 🚀<br>- DIY Electronics & Drones 🤖<br>
+Hi! I'm  a PhD student in **Astrophysics** at [Université Paris-Cité / Laboratoire Astroparticule et Cosmologie](https://www.apc.univ-paris7.fr/). I specialize in **Bayesian inference** for **gravitational waves physics**. My research focuses on developing efficient algorithms for parameter estimation and signal analysis, combining **high-performance computing** with **astrophysical modeling**.<br><br>I am passionate about:<br>- Astrophysics & Cosmology 🌌<br>- Computational Physics & HPC ⚛️<br>- Data Analysis & Bayesian Inference 📊<br> 🚀<br>- DIY Electronics & Drones 🤖<br>
 
 
 ## 🌐 Socials:
