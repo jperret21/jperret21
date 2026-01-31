@@ -3,7 +3,7 @@ Hi! I'm  a PhD in **Astrophysics**  and research engineer at [Université Paris-
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/julesperret) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julesperret) 
 
 
 # 💻 Tech Stack:
